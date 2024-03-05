@@ -1,6 +1,6 @@
 # Lanchonete
 
-<h4 align="center"><a href="https://www.figma.com/file/gDcEPApb7JUFwlhBoSIr0X/hamburguer-delivery?type=design&node-id=2-287&mode=design&t=8axZlegnkJbJRQPY-0">Figma</a></h4>
+<h4 align="center"><a href="https://www.figma.com/file/gDcEPApb7JUFwlhBoSIr0X/hamburguer-delivery?type=design&node-id=116-350&mode=design&t=8axZlegnkJbJRQPY-0">Figma</a></h4>
 
 
 Este é um projeto de um aplicativo de uma lanchonete que permite adicionar ao carrinho, remover do carrinho e enviar pedido. Desenvolvido com React Native. 
