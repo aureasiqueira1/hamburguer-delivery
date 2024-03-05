@@ -40,11 +40,11 @@ Abra o projeto
 
 Instale as dependencias (com yarn ou npm)
 ```bash
-  yarn install
+  npm install
 ```
 
 Inicie o projeto (com yarn ou npm)
 ```bash
-  yarn start
+  npx expo start
 ```
 
